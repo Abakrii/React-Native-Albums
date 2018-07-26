@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\React Native Pro\\projects done with Android gradle\\Albums\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\we\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\3c7a6a71ee98bb865f577ad253fe8667\\res\\values-w500dp\\values-w500dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "283",
+                        "endColumns": "54",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Thu Jul 26 13:05:47 EET 2018
+base.0=F\:\\React Native Pro\\projects done with Android gradle\\Albums\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
